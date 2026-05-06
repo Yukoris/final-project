@@ -1,5 +1,5 @@
 # Arduino Custom Bluetooth Controller
-* *Disclaimer: This controller is NOT perfect. This was just a project for my HS Comp-Sci class.
+* *Disclaimer: This controller is NOT perfect. This was just a project for my HS Comp-Sci class.*
 
 This is code for a gamepad controller made with an Arduino ESP32 microcontroller which I also wired a board for.
 It allows for 4 different buttons and 1 joystick. It was made to suit top-down 2D games. It's been tested on Android devices, 
