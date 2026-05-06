@@ -20,13 +20,28 @@ From there it should work!
 ## Wiring Schematic
 ### Microcontroller used: ESP32 - NodeMCU-32S Microcontroller
 
+### joystick
+
 joystick VRX -> GPIO15 w/capacitor connecting to ground
+
 joystick VRY -> GPIO4
+
 joystick +5V -> 5V0
 
+
+### buttons
+
 A button -> GPIO12, GND
+
 B button -> GPIO14, GND
+
 X button -> GPIO26, GND
+
 Y button -> GPIO27, GND
+
+
+### microcontroller pin ground connections
+
 ESP32 GND pin connecting to ground 
+
 ESP32 5V0 connecting to ground
